@@ -1,0 +1,32 @@
+{
+  "name": "nov-2018-blueink-museum",
+  "version": "1.0.0",
+  "main": "xlsx2json-v2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "find": "^0.2.9",
+    "fs-extra": "^7.0.1",
+    "hasha": "^3.0.0",
+    "js-yaml": "^3.12.0",
+    "json2csv": "^4.3.1",
+    "json2yaml": "^1.1.0",
+    "jsonfile": "^5.0.0",
+    "massive": "^5.7.0",
+    "object-hash": "^1.3.1",
+    "pdfjs-dist": "^2.0.943",
+    "pg-monitor": "^1.1.0",
+    "tiny-trie": "^0.2.6",
+    "xlsx": "^0.14.1",
+    "yargs": "^12.0.4"
+  },
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ""
+}
